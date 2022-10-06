@@ -2,7 +2,7 @@
 
 # Backend Interview
 
-- [컴퓨터 구조](https://github.com/honghyeong/backend-cs-interview/computer-architecture)
+- [컴퓨터 구조](https://github.com/honghyeong/backend-cs-interview/tree/main/computer-architecture)
 - [운영체제](https://github.com/honghyeong/backend-cs-interview/operating-system)
 - [데이터베이스](https://github.com/honghyeong/backend-cs-interview/database)
 - [자료구조](https://github.com/honghyeong/backend-cs-interview/data-structure)
